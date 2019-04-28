@@ -5,11 +5,9 @@ import Marathon.competitor.interf.Competitor;
 public abstract class Animal implements Competitor {
     protected String type;
     protected String name;
-
     protected int maxRunDistance;
     protected int maxJumpHeight;
     protected int maxSwimDistance;
-
     protected boolean onDistance;
 
     @Override
