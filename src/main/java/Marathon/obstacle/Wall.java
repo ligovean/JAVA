@@ -1,5 +1,4 @@
 package Marathon.obstacle;
-
 import Marathon.competitor.interf.Competitor;
 
 public class Wall extends Obstacle {

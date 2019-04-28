@@ -1,5 +1,4 @@
 package Marathon.obstacle;
-
 import Marathon.competitor.implement.Team;
 import Marathon.competitor.interf.Competitor;
 

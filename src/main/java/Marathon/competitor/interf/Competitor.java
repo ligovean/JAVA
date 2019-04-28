@@ -1,5 +1,6 @@
 package Marathon.competitor.interf;
 
+
 public interface Competitor {
     void run(int dist);
     void swim(int dist);

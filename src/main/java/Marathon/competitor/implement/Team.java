@@ -2,6 +2,7 @@ package Marathon.competitor.implement;
 
 import Marathon.competitor.interf.Competitor;
 
+
 public class Team {
     private String name;
     private Competitor[] competitors;

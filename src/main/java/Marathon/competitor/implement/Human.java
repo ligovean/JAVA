@@ -1,5 +1,6 @@
 package Marathon.competitor.implement;
 
+
 import Marathon.competitor.interf.Competitor;
 
 public class Human implements Competitor {
