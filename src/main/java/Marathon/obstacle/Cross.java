@@ -1,4 +1,5 @@
 package Marathon.obstacle;
+
 import Marathon.competitor.interf.Competitor;
 
 public class Cross extends Obstacle {

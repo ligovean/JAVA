@@ -1,11 +1,9 @@
 package Marathon.competitor.implement;
 
-
 import Marathon.competitor.interf.Competitor;
 
 public class Human implements Competitor {
     private String name;
-
     private int maxRunDistance;
     private int maxJumpHeight;
     private int maxSwimDistance;

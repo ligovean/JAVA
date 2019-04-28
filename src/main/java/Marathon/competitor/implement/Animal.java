@@ -8,7 +8,6 @@ public abstract class Animal implements Competitor {
     protected int maxRunDistance;
     protected int maxJumpHeight;
     protected int maxSwimDistance;
-
     protected boolean onDistance;
 
     @Override

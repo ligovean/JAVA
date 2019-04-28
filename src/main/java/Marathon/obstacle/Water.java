@@ -1,6 +1,7 @@
 package Marathon.obstacle;
 
 import Marathon.competitor.interf.Competitor;
+
 public class Water extends Obstacle {
     int length;
 
